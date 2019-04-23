@@ -1,4 +1,4 @@
-Wasabi Wallet Website - ![wasabiwallet.io](https://www.wasabiwallet.io)
+Wasabi Wallet Website - [wasabiwallet.io](https://www.wasabiwallet.io)
 ------
 
 Once the design has been finalized, the source code will be maintained in this repository. Meanwhile the design changes are committed to README.md file.
